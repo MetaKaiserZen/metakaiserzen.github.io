@@ -1,0 +1,110 @@
+body
+{
+    background-color: #000000;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, h2, p
+{
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+}
+
+h1, h2
+{
+    text-align: center;
+    font-weight: 500;
+}
+
+/* Image Section */
+
+.bg img
+{
+    width: 100%;
+}
+
+/* First Section */
+
+.section-1
+{
+    margin-block: 2em;
+}
+
+.section-1 p
+{
+    font-weight: 300;
+    margin-inline: 5em;
+    margin-block: 3em;
+}
+
+.iguana-1
+{
+    display: inline-block;
+    width: 49%;
+}
+
+.iguana-1 img
+{
+    margin-inline: 7em;
+    width: 27.5em;
+    height: 15em;
+}
+
+/* Description Section */
+
+.desc-section
+{
+    text-align: center;
+    background-color: #1E1A13;
+    padding-block: 2em;
+}
+
+.iconos
+{
+    display: inline-block;
+    width: 15%;
+}
+
+.iconos p
+{
+    font-weight: 300;
+}
+
+.icon-sections
+{
+    color: #FFFFFF;
+}
+
+/* Gallery Section */
+
+.iguanas
+{
+    text-align: center;
+    margin: 2em;
+}
+
+.iguana
+{
+    display: inline-block;
+    padding: 1em;
+}
+
+.iguana img
+{
+    max-height: 12.5em;
+}
+
+/* Footer Section */
+
+footer
+{
+    background-color: #1E1A13;
+    padding: 1em;
+}
+
+footer p
+{
+    text-align: center;
+    font-weight: 300;
+}

@@ -1,0 +1,103 @@
+a, h1, h2, p
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Cards Section */
+
+.tarjetas
+{
+    margin-top: 1.25em;
+}
+
+.logo-navbar
+{
+    max-height: 1.25em;
+}
+
+.seccion-columnas
+{
+    margin-bottom: 2.5em;
+}
+
+.altura-imagen
+{
+    height: 13.5em;
+}
+
+.texto-izquierda
+{
+    text-align: left;
+}
+
+.parrafo-superior, .parrafo-central, .parrafo-inferior
+{
+    font-weight: 300;
+}
+
+.parrafo-central, .parrafo-inferior
+{
+    color: #707070;
+    margin: 0;
+}
+
+.parrafo-superior
+{
+    font-size: 1.25em;
+    color: #212529;
+    height: 3.75em;
+    line-height: 1.25em;
+    overflow: hidden;
+}
+
+.parrafo-central
+{
+    font-size: 1em;
+}
+
+.parrafo-inferior
+{
+    font-size: 0.8em;
+}
+
+.col-footer
+{
+    text-align: right;
+    padding: 0;
+}
+
+.parrafo-footer
+{
+    font-size: 1em;
+    font-weight: 300;
+    color: #707070;
+    margin: 0;
+    display: inline-block;
+}
+
+.parrafo-success
+{
+    font-size: 1.25em;
+    font-weight: 500;
+    color: #28A745;
+    margin-block: 0;
+    margin-inline: 0.25em;
+    display: inline-block;
+}
+
+.margen-final
+{
+    padding-block: 0.6em;
+}
+
+/* Footer Section */
+
+.seccion-formulario
+{
+    background-color: #28A745;
+}
+
+.span-footer
+{
+    display: block;
+}
